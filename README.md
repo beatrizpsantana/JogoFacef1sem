@@ -1,8 +1,8 @@
-# GitHub Templates 🚀
+# JogoFacef1sem 🚀
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-Bem-vindo ao **GitHub Templates**, onde a diversão encontra a produtividade! Aqui você encontrará uma coleção de templates incríveis para GitHub, repletos de emojis, cards de status, ícones de linguagens e informações de contato. Prepare-se para tornar seus perfis e repositórios ainda mais impressionantes! 😎
+Bem-vindo ao meu **Jogo Mago**, criado para entrega de trabalho bimestral de Introdução a Computação! 😎
 
 ## Menu 🚀
 
